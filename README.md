@@ -17,3 +17,4 @@ To run from live webcam feed:
 ```
 python webcam_bb_demo.py 
 ```
+**Stand apprx 6 ft from the camera**
